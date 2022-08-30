@@ -5,7 +5,7 @@
  *    php ci migration:bare [name]
  *
  * @package     BareMigration
- * @author      Sithu K. <cithukyaw@gmail.com>
+ * @author      Sithu <sithu@phplucidframe.com>
  * @license     http://www.opensource.org/licenses/mit-license.php MIT License
  *
  * This source file is subject to the MIT license that is bundled
